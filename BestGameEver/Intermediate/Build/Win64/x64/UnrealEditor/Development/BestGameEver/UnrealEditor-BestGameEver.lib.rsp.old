@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-BestGameEver.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\BestGameEver\BestGameEver\BestGameEver\Intermediate\Build\Win64\x64\BestGameEverEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"G:\BestGameEver\BestGameEver\BestGameEver\Intermediate\Build\Win64\x64\UnrealEditor\Development\BestGameEver\BestGameEver.cpp.obj"
+"G:\BestGameEver\BestGameEver\BestGameEver\Intermediate\Build\Win64\x64\UnrealEditor\Development\BestGameEver\MyClass.cpp.obj"
+"G:\BestGameEver\BestGameEver\BestGameEver\Intermediate\Build\Win64\x64\UnrealEditor\Development\BestGameEver\PerModuleInline.gen.cpp.obj"
+"G:\BestGameEver\BestGameEver\BestGameEver\Intermediate\Build\Win64\x64\UnrealEditor\Development\BestGameEver\Default.rc2.res"
+/OUT:"G:\BestGameEver\BestGameEver\BestGameEver\Intermediate\Build\Win64\x64\UnrealEditor\Development\BestGameEver\UnrealEditor-BestGameEver.lib"

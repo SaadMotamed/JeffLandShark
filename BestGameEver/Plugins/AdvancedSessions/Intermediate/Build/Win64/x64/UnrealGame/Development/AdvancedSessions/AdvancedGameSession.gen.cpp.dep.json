@@ -1,0 +1,43 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\bestgameever\\bestgameever\\bestgameever\\plugins\\advancedsessions\\intermediate\\build\\win64\\unrealgame\\inc\\advancedsessions\\uht\\advancedgamesession.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\bestgameever\\bestgameever\\bestgameever\\intermediate\\build\\win64\\x64\\bestgameever\\development\\engine\\sharedpch.engine.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "g:\\bestgameever\\bestgameever\\bestgameever\\plugins\\advancedsessions\\intermediate\\build\\win64\\x64\\unrealgame\\development\\advancedsessions\\definitions.advancedsessions.h",
+            "g:\\bestgameever\\bestgameever\\bestgameever\\plugins\\advancedsessions\\source\\advancedsessions\\classes\\advancedgamesession.h",
+            "g:\\ue_5.5\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\online.h",
+            "g:\\ue_5.5\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystem.h",
+            "g:\\ue_5.5\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemmodule.h",
+            "g:\\ue_5.5\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemtypes.h",
+            "g:\\ue_5.5\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemnames.h",
+            "g:\\ue_5.5\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinedelegatemacros.h",
+            "g:\\ue_5.5\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlineidentityinterface.h",
+            "g:\\ue_5.5\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinefriendsinterface.h",
+            "g:\\ue_5.5\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinesessioninterface.h",
+            "g:\\ue_5.5\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinesessiondelegates.h",
+            "g:\\ue_5.5\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinekeyvaluepair.h",
+            "g:\\ue_5.5\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlineexternaluiinterface.h",
+            "g:\\ue_5.5\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinemessageinterface.h",
+            "g:\\ue_5.5\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlineerror.h",
+            "g:\\ue_5.5\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\voiceinterface.h",
+            "g:\\ue_5.5\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystempackage.h",
+            "g:\\ue_5.5\\engine\\source\\runtime\\signalprocessing\\public\\dsp\\multithreadedpatching.h",
+            "g:\\ue_5.5\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinetitlefileinterface.h",
+            "g:\\ue_5.5\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlineentitlementsinterface.h",
+            "g:\\ue_5.5\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlineusercloudinterface.h",
+            "g:\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "g:\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "g:\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "g:\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "g:\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamesession.h",
+            "g:\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\gamesession.generated.h",
+            "g:\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerstate.h",
+            "g:\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\playerstate.generated.h",
+            "g:\\bestgameever\\bestgameever\\bestgameever\\plugins\\advancedsessions\\intermediate\\build\\win64\\unrealgame\\inc\\advancedsessions\\uht\\advancedgamesession.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

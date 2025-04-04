@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BestGameEver",
+			"Path": "..\\Source\\BestGameEver.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BestGameEverEditor",
+			"Path": "..\\Source\\BestGameEverEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

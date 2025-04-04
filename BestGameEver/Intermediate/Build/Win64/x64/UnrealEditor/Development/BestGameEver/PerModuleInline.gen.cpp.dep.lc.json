@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\bestgameever\\bestgameever\\bestgameever\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\bestgameever\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\bestgameever\\bestgameever\\bestgameever\\intermediate\\build\\win64\\x64\\bestgameevereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "g:\\bestgameever\\bestgameever\\bestgameever\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\bestgameever\\definitions.bestgameever.h",
+            "g:\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
