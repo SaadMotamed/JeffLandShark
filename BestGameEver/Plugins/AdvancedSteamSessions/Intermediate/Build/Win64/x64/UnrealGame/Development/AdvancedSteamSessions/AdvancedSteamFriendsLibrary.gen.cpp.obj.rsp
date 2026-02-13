@@ -1,12 +1,12 @@
-"G:\BestGameEver\BestGameEver\BestGameEver\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealGame\Inc\AdvancedSteamSessions\UHT\AdvancedSteamFriendsLibrary.gen.cpp"
-/FI"G:\BestGameEver\BestGameEver\BestGameEver\Intermediate\Build\Win64\x64\BestGameEver\Development\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
-/FI"G:\BestGameEver\BestGameEver\BestGameEver\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
-/Yu"G:\BestGameEver\BestGameEver\BestGameEver\Intermediate\Build\Win64\x64\BestGameEver\Development\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
-/Fp"G:\BestGameEver\BestGameEver\BestGameEver\Intermediate\Build\Win64\x64\BestGameEver\Development\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.pch"
-/Fo"G:\BestGameEver\BestGameEver\BestGameEver\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\AdvancedSteamFriendsLibrary.gen.cpp.obj"
-/experimental:log "G:\BestGameEver\BestGameEver\BestGameEver\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\AdvancedSteamFriendsLibrary.gen.cpp.sarif"
-/sourceDependencies "G:\BestGameEver\BestGameEver\BestGameEver\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\AdvancedSteamFriendsLibrary.gen.cpp.dep.json"
-@"G:\BestGameEver\BestGameEver\BestGameEver\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\AdvancedSteamSessions.Shared.rsp"
+"G:\NEW_Game_Dev\JeffLandShark\BestGameEver\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealGame\Inc\AdvancedSteamSessions\UHT\AdvancedSteamFriendsLibrary.gen.cpp"
+/FI"G:\NEW_Game_Dev\JeffLandShark\BestGameEver\Intermediate\Build\Win64\x64\BestGameEver\Development\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
+/FI"G:\NEW_Game_Dev\JeffLandShark\BestGameEver\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
+/Yu"G:\NEW_Game_Dev\JeffLandShark\BestGameEver\Intermediate\Build\Win64\x64\BestGameEver\Development\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
+/Fp"G:\NEW_Game_Dev\JeffLandShark\BestGameEver\Intermediate\Build\Win64\x64\BestGameEver\Development\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.pch"
+/Fo"G:\NEW_Game_Dev\JeffLandShark\BestGameEver\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\AdvancedSteamFriendsLibrary.gen.cpp.obj"
+/experimental:log "G:\NEW_Game_Dev\JeffLandShark\BestGameEver\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\AdvancedSteamFriendsLibrary.gen.cpp.sarif"
+/sourceDependencies "G:\NEW_Game_Dev\JeffLandShark\BestGameEver\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\AdvancedSteamFriendsLibrary.gen.cpp.dep.json"
+@"G:\NEW_Game_Dev\JeffLandShark\BestGameEver\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\AdvancedSteamSessions.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

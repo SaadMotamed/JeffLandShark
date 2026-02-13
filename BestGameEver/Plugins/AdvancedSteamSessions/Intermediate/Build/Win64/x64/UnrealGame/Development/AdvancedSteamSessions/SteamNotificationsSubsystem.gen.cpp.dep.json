@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "g:\\bestgameever\\bestgameever\\bestgameever\\plugins\\advancedsteamsessions\\intermediate\\build\\win64\\unrealgame\\inc\\advancedsteamsessions\\uht\\steamnotificationssubsystem.gen.cpp",
+        "Source": "g:\\new_game_dev\\jefflandshark\\bestgameever\\plugins\\advancedsteamsessions\\intermediate\\build\\win64\\unrealgame\\inc\\advancedsteamsessions\\uht\\steamnotificationssubsystem.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "g:\\bestgameever\\bestgameever\\bestgameever\\intermediate\\build\\win64\\x64\\bestgameever\\development\\engine\\sharedpch.engine.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "PCH": "g:\\new_game_dev\\jefflandshark\\bestgameever\\intermediate\\build\\win64\\x64\\bestgameever\\development\\engine\\sharedpch.engine.project.valapi.cpp20.inclorderunreal5_3.h.pch",
         "Includes": [
-            "g:\\bestgameever\\bestgameever\\bestgameever\\plugins\\advancedsteamsessions\\intermediate\\build\\win64\\x64\\unrealgame\\development\\advancedsteamsessions\\definitions.advancedsteamsessions.h",
-            "g:\\bestgameever\\bestgameever\\bestgameever\\plugins\\advancedsteamsessions\\source\\advancedsteamsessions\\classes\\steamnotificationssubsystem.h",
+            "g:\\new_game_dev\\jefflandshark\\bestgameever\\plugins\\advancedsteamsessions\\intermediate\\build\\win64\\x64\\unrealgame\\development\\advancedsteamsessions\\definitions.advancedsteamsessions.h",
+            "g:\\new_game_dev\\jefflandshark\\bestgameever\\plugins\\advancedsteamsessions\\source\\advancedsteamsessions\\classes\\steamnotificationssubsystem.h",
             "g:\\ue_5.5\\engine\\source\\thirdparty\\steamworks\\steamv157\\sdk\\public\\steam\\steam_api.h",
             "g:\\ue_5.5\\engine\\source\\thirdparty\\steamworks\\steamv157\\sdk\\public\\steam\\steam_api_common.h",
             "g:\\ue_5.5\\engine\\source\\thirdparty\\steamworks\\steamv157\\sdk\\public\\steam\\steamtypes.h",
@@ -41,7 +41,7 @@
             "g:\\ue_5.5\\engine\\source\\thirdparty\\steamworks\\steamv157\\sdk\\public\\steam\\steamnetworkingtypes.h",
             "g:\\ue_5.5\\engine\\source\\thirdparty\\steamworks\\steamv157\\sdk\\public\\steam\\isteamnetworkingsockets.h",
             "g:\\ue_5.5\\engine\\source\\thirdparty\\steamworks\\steamv157\\sdk\\public\\steam\\isteamnetworkingutils.h",
-            "g:\\bestgameever\\bestgameever\\bestgameever\\plugins\\advancedsteamsessions\\intermediate\\build\\win64\\unrealgame\\inc\\advancedsteamsessions\\uht\\steamnotificationssubsystem.generated.h"
+            "g:\\new_game_dev\\jefflandshark\\bestgameever\\plugins\\advancedsteamsessions\\intermediate\\build\\win64\\unrealgame\\inc\\advancedsteamsessions\\uht\\steamnotificationssubsystem.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

@@ -1,12 +1,12 @@
-"G:\BestGameEver\BestGameEver\BestGameEver\Plugins\AdvancedSessions\Intermediate\Build\Win64\UnrealGame\Inc\AdvancedSessions\UHT\AdvancedGameSession.gen.cpp"
-/FI"G:\BestGameEver\BestGameEver\BestGameEver\Intermediate\Build\Win64\x64\BestGameEver\Development\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
-/FI"G:\BestGameEver\BestGameEver\BestGameEver\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSessions\Definitions.AdvancedSessions.h"
-/Yu"G:\BestGameEver\BestGameEver\BestGameEver\Intermediate\Build\Win64\x64\BestGameEver\Development\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
-/Fp"G:\BestGameEver\BestGameEver\BestGameEver\Intermediate\Build\Win64\x64\BestGameEver\Development\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.pch"
-/Fo"G:\BestGameEver\BestGameEver\BestGameEver\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSessions\AdvancedGameSession.gen.cpp.obj"
-/experimental:log "G:\BestGameEver\BestGameEver\BestGameEver\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSessions\AdvancedGameSession.gen.cpp.sarif"
-/sourceDependencies "G:\BestGameEver\BestGameEver\BestGameEver\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSessions\AdvancedGameSession.gen.cpp.dep.json"
-@"G:\BestGameEver\BestGameEver\BestGameEver\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSessions\AdvancedSessions.Shared.rsp"
+"G:\NEW_Game_Dev\JeffLandShark\BestGameEver\Plugins\AdvancedSessions\Intermediate\Build\Win64\UnrealGame\Inc\AdvancedSessions\UHT\AdvancedGameSession.gen.cpp"
+/FI"G:\NEW_Game_Dev\JeffLandShark\BestGameEver\Intermediate\Build\Win64\x64\BestGameEver\Development\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
+/FI"G:\NEW_Game_Dev\JeffLandShark\BestGameEver\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSessions\Definitions.AdvancedSessions.h"
+/Yu"G:\NEW_Game_Dev\JeffLandShark\BestGameEver\Intermediate\Build\Win64\x64\BestGameEver\Development\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
+/Fp"G:\NEW_Game_Dev\JeffLandShark\BestGameEver\Intermediate\Build\Win64\x64\BestGameEver\Development\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.pch"
+/Fo"G:\NEW_Game_Dev\JeffLandShark\BestGameEver\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSessions\AdvancedGameSession.gen.cpp.obj"
+/experimental:log "G:\NEW_Game_Dev\JeffLandShark\BestGameEver\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSessions\AdvancedGameSession.gen.cpp.sarif"
+/sourceDependencies "G:\NEW_Game_Dev\JeffLandShark\BestGameEver\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSessions\AdvancedGameSession.gen.cpp.dep.json"
+@"G:\NEW_Game_Dev\JeffLandShark\BestGameEver\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSessions\AdvancedSessions.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

@@ -15,11 +15,11 @@ class UObject;
 #endif
 #define BESTGAMEEVER_VOIP_generated_h
 
-#define FID_BestGameEver_BestGameEver_BestGameEver_Source_BestGameEver_Public_VOIP_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_NEW_Game_Dev_JeffLandShark_BestGameEver_Source_BestGameEver_Public_VOIP_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execClearVoicePackets);
 
 
-#define FID_BestGameEver_BestGameEver_BestGameEver_Source_BestGameEver_Public_VOIP_h_21_INCLASS_NO_PURE_DECLS \
+#define FID_NEW_Game_Dev_JeffLandShark_BestGameEver_Source_BestGameEver_Public_VOIP_h_21_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUVOIP(); \
 	friend struct Z_Construct_UClass_UVOIP_Statics; \
@@ -28,7 +28,7 @@ public: \
 	DECLARE_SERIALIZER(UVOIP)
 
 
-#define FID_BestGameEver_BestGameEver_BestGameEver_Source_BestGameEver_Public_VOIP_h_21_ENHANCED_CONSTRUCTORS \
+#define FID_NEW_Game_Dev_JeffLandShark_BestGameEver_Source_BestGameEver_Public_VOIP_h_21_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UVOIP(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 private: \
@@ -42,13 +42,13 @@ public: \
 	NO_API virtual ~UVOIP();
 
 
-#define FID_BestGameEver_BestGameEver_BestGameEver_Source_BestGameEver_Public_VOIP_h_18_PROLOG
-#define FID_BestGameEver_BestGameEver_BestGameEver_Source_BestGameEver_Public_VOIP_h_21_GENERATED_BODY \
+#define FID_NEW_Game_Dev_JeffLandShark_BestGameEver_Source_BestGameEver_Public_VOIP_h_18_PROLOG
+#define FID_NEW_Game_Dev_JeffLandShark_BestGameEver_Source_BestGameEver_Public_VOIP_h_21_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_BestGameEver_BestGameEver_BestGameEver_Source_BestGameEver_Public_VOIP_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_BestGameEver_BestGameEver_BestGameEver_Source_BestGameEver_Public_VOIP_h_21_INCLASS_NO_PURE_DECLS \
-	FID_BestGameEver_BestGameEver_BestGameEver_Source_BestGameEver_Public_VOIP_h_21_ENHANCED_CONSTRUCTORS \
+	FID_NEW_Game_Dev_JeffLandShark_BestGameEver_Source_BestGameEver_Public_VOIP_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_NEW_Game_Dev_JeffLandShark_BestGameEver_Source_BestGameEver_Public_VOIP_h_21_INCLASS_NO_PURE_DECLS \
+	FID_NEW_Game_Dev_JeffLandShark_BestGameEver_Source_BestGameEver_Public_VOIP_h_21_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -56,7 +56,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> BESTGAMEEVER_API UClass* StaticClass<class UVOIP>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_BestGameEver_BestGameEver_BestGameEver_Source_BestGameEver_Public_VOIP_h
+#define CURRENT_FILE_ID FID_NEW_Game_Dev_JeffLandShark_BestGameEver_Source_BestGameEver_Public_VOIP_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

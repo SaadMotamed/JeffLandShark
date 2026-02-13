@@ -572,6 +572,116 @@
 			}
 		},
 		{
+			"File": "../../../Engine/Plugins/Animation/RigLogic/RigLogic.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 0,
+				"VersionName": "10.2.5",
+				"FriendlyName": "RigLogic Plugin v10.2.5",
+				"Description": "3Lateral RigLogic Plugin for Facial Animation v10.2.5",
+				"Category": "Animation",
+				"CreatedBy": "3Lateral",
+				"CreatedByURL": "https://www.3lateral.com/",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"CanContainContent": true,
+				"IsBetaVersion": true,
+				"Modules": [
+					{
+						"Name": "RigLogicLib",
+						"Type": "Runtime",
+						"LoadingPhase": "PreDefault"
+					},
+					{
+						"Name": "RigLogicLibTest",
+						"Type": "Runtime",
+						"LoadingPhase": "PreDefault",
+						"PlatformAllowList": [
+							"Win64"
+						]
+					},
+					{
+						"Name": "RigLogicModule",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
+					},
+					{
+						"Name": "RigLogicDeveloper",
+						"Type": "UncookedOnly",
+						"LoadingPhase": "PreDefault"
+					},
+					{
+						"Name": "RigLogicEditor",
+						"Type": "Editor",
+						"LoadingPhase": "Default",
+						"PlatformAllowList": [
+							"Win64"
+						]
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "ControlRig",
+						"Enabled": true
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Bridge/Bridge.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 53,
+				"VersionName": "2025.0.3",
+				"FriendlyName": "Bridge",
+				"Description": "Megascans Link for Quixel Bridge.",
+				"Category": "Editor",
+				"CreatedBy": "Quixel",
+				"CreatedByURL": "https://www.quixel.se",
+				"DocsURL": "https://help.quixel.com/hc/en-us/sections/360005846137-Quixel-Bridge-for-Unreal-Engine-5",
+				"MarketplaceURL": "",
+				"SupportURL": "support@quixel.com",
+				"EngineVersion": "5.5.0",
+				"EnabledByDefault": true,
+				"CanContainContent": true,
+				"Modules": [
+					{
+						"Name": "Bridge",
+						"Type": "Editor",
+						"LoadingPhase": "PostDefault",
+						"PlatformAllowList": [
+							"Win64",
+							"Mac",
+							"Linux"
+						]
+					},
+					{
+						"Name": "MegascansPlugin",
+						"Type": "Editor",
+						"LoadingPhase": "PostDefault",
+						"PlatformAllowList": [
+							"Win64",
+							"Mac",
+							"Linux"
+						]
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "EditorScriptingUtilities",
+						"Enabled": true
+					},
+					{
+						"Name": "MetaHumanSDK",
+						"Enabled": true
+					}
+				]
+			}
+		},
+		{
 			"File": "../../../Engine/Plugins/Cameras/CameraShakePreviewer/CameraShakePreviewer.uplugin",
 			"Descriptor": 
 			{
@@ -2513,6 +2623,55 @@
 			}
 		},
 		{
+			"File": "../../../Engine/Plugins/Experimental/MetaHuman/MetaHumanSDK/MetaHumanSDK.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "MetaHuman SDK",
+				"Description": "Utilities and tools for working with MetaHumans in Unreal Engine.",
+				"Category": "MetaHuman",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "https://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"CanContainContent": true,
+				"IsExperimentalVersion": true,
+				"Modules": [
+					{
+						"Name": "MetaHumanSDKEditor",
+						"Type": "Editor",
+						"LoadingPhase": "Default"
+					},
+					{
+						"Name": "MetaHumanSDKRuntime",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "EditorScriptingUtilities",
+						"Enabled": true
+					},
+					{
+						"Name": "ControlRig",
+						"Enabled": true
+					},
+					{
+						"Name": "HairStrands",
+						"Enabled": true
+					},
+					{
+						"Name": "RigLogic",
+						"Enabled": true
+					}
+				]
+			}
+		},
+		{
 			"File": "../../../Engine/Plugins/Experimental/NFORDenoise/NFORDenoise.uplugin",
 			"Descriptor": 
 			{
@@ -2875,6 +3034,57 @@
 				"Plugins": [
 					{
 						"Name": "PythonScriptPlugin",
+						"Enabled": true
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Fab/Fab.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 5,
+				"VersionName": "0.0.5",
+				"FriendlyName": "Fab",
+				"Description": "Fab Plugin",
+				"Category": "Other",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "https://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EngineVersion": "5.5.0",
+				"EnabledByDefault": true,
+				"CanContainContent": true,
+				"Modules": [
+					{
+						"Name": "Fab",
+						"Type": "Editor",
+						"LoadingPhase": "PostDefault",
+						"PlatformAllowList": [
+							"Linux",
+							"Win64",
+							"Mac"
+						]
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "Interchange",
+						"Enabled": true,
+						"PlatformAllowList": [
+							"Linux",
+							"Win64",
+							"Mac"
+						]
+					},
+					{
+						"Name": "EditorScriptingUtilities",
+						"Enabled": true
+					},
+					{
+						"Name": "EOSShared",
 						"Enabled": true
 					}
 				]
@@ -3867,6 +4077,40 @@
 							"Win64",
 							"Linux",
 							"Mac"
+						]
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Online/EOSShared/EOSShared.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "EOS Shared",
+				"Description": "Responsible for init/shutdown of the EOSSDK runtime library.",
+				"Category": "Online Platform",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "https://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": false,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "EOSShared",
+						"Type": "Runtime",
+						"LoadingPhase": "PostConfigInit",
+						"PlatformAllowList": [
+							"Android",
+							"IOS",
+							"Linux",
+							"LinuxArm64",
+							"Mac",
+							"Win64"
 						]
 					}
 				]

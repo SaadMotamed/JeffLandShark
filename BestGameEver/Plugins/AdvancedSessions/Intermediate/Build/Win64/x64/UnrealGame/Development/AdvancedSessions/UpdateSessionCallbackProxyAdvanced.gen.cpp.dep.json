@@ -1,13 +1,13 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "g:\\bestgameever\\bestgameever\\bestgameever\\plugins\\advancedsessions\\intermediate\\build\\win64\\unrealgame\\inc\\advancedsessions\\uht\\updatesessioncallbackproxyadvanced.gen.cpp",
+        "Source": "g:\\new_game_dev\\jefflandshark\\bestgameever\\plugins\\advancedsessions\\intermediate\\build\\win64\\unrealgame\\inc\\advancedsessions\\uht\\updatesessioncallbackproxyadvanced.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "g:\\bestgameever\\bestgameever\\bestgameever\\intermediate\\build\\win64\\x64\\bestgameever\\development\\engine\\sharedpch.engine.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "PCH": "g:\\new_game_dev\\jefflandshark\\bestgameever\\intermediate\\build\\win64\\x64\\bestgameever\\development\\engine\\sharedpch.engine.project.valapi.cpp20.inclorderunreal5_3.h.pch",
         "Includes": [
-            "g:\\bestgameever\\bestgameever\\bestgameever\\plugins\\advancedsessions\\intermediate\\build\\win64\\x64\\unrealgame\\development\\advancedsessions\\definitions.advancedsessions.h",
-            "g:\\bestgameever\\bestgameever\\bestgameever\\plugins\\advancedsessions\\source\\advancedsessions\\classes\\updatesessioncallbackproxyadvanced.h",
-            "g:\\bestgameever\\bestgameever\\bestgameever\\plugins\\advancedsessions\\source\\advancedsessions\\classes\\blueprintdatadefinitions.h",
+            "g:\\new_game_dev\\jefflandshark\\bestgameever\\plugins\\advancedsessions\\intermediate\\build\\win64\\x64\\unrealgame\\development\\advancedsessions\\definitions.advancedsessions.h",
+            "g:\\new_game_dev\\jefflandshark\\bestgameever\\plugins\\advancedsessions\\source\\advancedsessions\\classes\\updatesessioncallbackproxyadvanced.h",
+            "g:\\new_game_dev\\jefflandshark\\bestgameever\\plugins\\advancedsessions\\source\\advancedsessions\\classes\\blueprintdatadefinitions.h",
             "g:\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerstate.h",
             "g:\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\playerstate.generated.h",
             "g:\\ue_5.5\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinesessioninterface.h",
@@ -118,8 +118,8 @@
             "g:\\ue_5.5\\engine\\plugins\\online\\onlinesubsystemutils\\intermediate\\build\\win64\\unrealgame\\inc\\onlinesubsystemutils\\uht\\testbeaconhost.generated.h",
             "g:\\ue_5.5\\engine\\plugins\\online\\onlinesubsystemutils\\source\\onlinesubsystemutils\\classes\\turnbasedblueprintlibrary.h",
             "g:\\ue_5.5\\engine\\plugins\\online\\onlinesubsystemutils\\intermediate\\build\\win64\\unrealgame\\inc\\onlinesubsystemutils\\uht\\turnbasedblueprintlibrary.generated.h",
-            "g:\\bestgameever\\bestgameever\\bestgameever\\plugins\\advancedsessions\\intermediate\\build\\win64\\unrealgame\\inc\\advancedsessions\\uht\\blueprintdatadefinitions.generated.h",
-            "g:\\bestgameever\\bestgameever\\bestgameever\\plugins\\advancedsessions\\intermediate\\build\\win64\\unrealgame\\inc\\advancedsessions\\uht\\updatesessioncallbackproxyadvanced.generated.h"
+            "g:\\new_game_dev\\jefflandshark\\bestgameever\\plugins\\advancedsessions\\intermediate\\build\\win64\\unrealgame\\inc\\advancedsessions\\uht\\blueprintdatadefinitions.generated.h",
+            "g:\\new_game_dev\\jefflandshark\\bestgameever\\plugins\\advancedsessions\\intermediate\\build\\win64\\unrealgame\\inc\\advancedsessions\\uht\\updatesessioncallbackproxyadvanced.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
