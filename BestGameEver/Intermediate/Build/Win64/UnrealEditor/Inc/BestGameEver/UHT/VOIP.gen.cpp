@@ -133,14 +133,14 @@ UVOIP::~UVOIP() {}
 // End Class UVOIP
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_BestGameEver_BestGameEver_BestGameEver_Source_BestGameEver_Public_VOIP_h_Statics
+struct Z_CompiledInDeferFile_FID_Users_yazan_OneDrive_Desktop_JeffShark_JeffLandShark_BestGameEver_Source_BestGameEver_Public_VOIP_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UVOIP, UVOIP::StaticClass, TEXT("UVOIP"), &Z_Registration_Info_UClass_UVOIP, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UVOIP), 2324434904U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_BestGameEver_BestGameEver_BestGameEver_Source_BestGameEver_Public_VOIP_h_1820137878(TEXT("/Script/BestGameEver"),
-	Z_CompiledInDeferFile_FID_BestGameEver_BestGameEver_BestGameEver_Source_BestGameEver_Public_VOIP_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_BestGameEver_BestGameEver_BestGameEver_Source_BestGameEver_Public_VOIP_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_yazan_OneDrive_Desktop_JeffShark_JeffLandShark_BestGameEver_Source_BestGameEver_Public_VOIP_h_1820137878(TEXT("/Script/BestGameEver"),
+	Z_CompiledInDeferFile_FID_Users_yazan_OneDrive_Desktop_JeffShark_JeffLandShark_BestGameEver_Source_BestGameEver_Public_VOIP_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_yazan_OneDrive_Desktop_JeffShark_JeffLandShark_BestGameEver_Source_BestGameEver_Public_VOIP_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration
