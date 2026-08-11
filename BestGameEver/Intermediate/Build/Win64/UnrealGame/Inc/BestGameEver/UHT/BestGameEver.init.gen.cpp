@@ -17,7 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeBestGameEver_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x80107F9C,
+				0xF066D497,
 				0x1BF2E30C,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -25,5 +25,5 @@ void EmptyLinkFunctionForGeneratedCodeBestGameEver_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_BestGameEver.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_BestGameEver(Z_Construct_UPackage__Script_BestGameEver, TEXT("/Script/BestGameEver"), Z_Registration_Info_UPackage__Script_BestGameEver, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x80107F9C, 0x1BF2E30C));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_BestGameEver(Z_Construct_UPackage__Script_BestGameEver, TEXT("/Script/BestGameEver"), Z_Registration_Info_UPackage__Script_BestGameEver, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xF066D497, 0x1BF2E30C));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
